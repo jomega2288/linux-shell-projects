@@ -76,7 +76,7 @@ Configure Git identity:
 
 bash
 git config --global user.name "Jorge"
-git config --global user.email "YOUR_GITHUB_EMAIL"
+git config --global user.email "jomega26@gmail.com"
 Add and commit files:
 
 bash
