@@ -114,7 +114,7 @@ git remote remove origin
 Add correct remote:
 
 bash
-git remote add origin https://github.com/YOUR_USERNAME/linux-shell-projects.git
+git remote add origin https://github.com/jomega2288/linux-shell-projects.git
 Verify remote:
 
 bash
@@ -138,7 +138,7 @@ Enumerating objects: 4, done.
 Counting objects: 100% (4/4), done.
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (4/4), done.
-To https://github.com/YOUR_USERNAME/linux-shell-projects.git
+To https://github.com/jomega2288/linux-shell-projects.git
  * [new branch] main -> main
 branch 'main' set up to track 'origin/main'.
 End of Document
